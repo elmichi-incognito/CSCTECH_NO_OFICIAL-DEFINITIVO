@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Cascadia Code", Consolas, monospace;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+div.aura {
+    color: black;
+}
+.barajas {
+
+max-width: 725px;
+margin: 0 auto;
+background-color: rgb(50, 49, 50);
+padding: 10px;
+border-radius: 10px;
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.arias {
+
+max-width: 725px;
+margin: 0 auto;
+background-color: rgb(50, 49, 50);
+padding: 10px;
+border-radius: 10px;
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.galindo {
+
+max-width: 725px;
+margin: 0 auto;
+background-color: rgb(50, 49, 50);
+padding: 10px;
+border-radius: 10px;
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.tomas {
+
+max-width: 725px;
+margin: 0 auto;
+background-color: rgb(50, 49, 50);
+padding: 10px;
+border-radius: 10px;
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.barajas, .arias, .galindo, .tomas {
+    margin-bottom: 20px;
+}
